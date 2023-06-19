@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T16:31:03.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="YlCDyTlEFiii5iZ_j1Wi" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T16:54:59.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dU8nTlxDsRCHEHf8Dcu1" version="21.5.0" type="github">
   <diagram name="Page-1" id="UxIshtgka003ao0sYjYL">
-    <mxGraphModel dx="454" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -393,86 +393,143 @@
         <mxCell id="3FB7eA9qA6CasLgCEaDb-39" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Jamaican sorrel Drink&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="250" y="450" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3FB7eA9qA6CasLgCEaDb-40" value="&lt;u&gt;&lt;b&gt;Who we are&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp; We are the curious cooks, experts, journalists, and nerds behind Serious Eats, the foremost site of food science and culture since 2006." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="10" y="560" width="120" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-43" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;American Cuisines&lt;/b&gt;&lt;br&gt;what to eat on Juneteenth&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="105" y="180" width="85" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-40" value="&lt;u&gt;&lt;b&gt;Who we are&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&amp;nbsp; We are the curious cooks, experts, journalists, and nerds behind Serious Eats, the foremost site of food science and culture since 2006." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="580" width="120" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-45" value="&lt;u&gt;&lt;b&gt;Who we really are&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="170" y="560" width="140" height="40" as="geometry" />
+          <mxGeometry x="180" y="580" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-48" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="30" y="530" as="sourcePoint" />
-            <mxPoint x="245" y="560" as="targetPoint" />
+            <mxPoint x="40" y="550" as="sourcePoint" />
+            <mxPoint x="255" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="245" y="530" />
+              <mxPoint x="255" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="800" as="sourcePoint" />
-            <mxPoint x="240" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3FB7eA9qA6CasLgCEaDb-74" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FB7eA9qA6CasLgCEaDb-51" target="3FB7eA9qA6CasLgCEaDb-68">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="720" as="sourcePoint" />
-            <mxPoint x="380" y="670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3FB7eA9qA6CasLgCEaDb-75" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FB7eA9qA6CasLgCEaDb-59" target="3FB7eA9qA6CasLgCEaDb-55">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="740" as="sourcePoint" />
-            <mxPoint x="380" y="690" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3FB7eA9qA6CasLgCEaDb-76" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FB7eA9qA6CasLgCEaDb-58" target="3FB7eA9qA6CasLgCEaDb-65">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="750" as="sourcePoint" />
-            <mxPoint x="390" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3FB7eA9qA6CasLgCEaDb-77" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FB7eA9qA6CasLgCEaDb-54" target="3FB7eA9qA6CasLgCEaDb-56">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="760" as="sourcePoint" />
-            <mxPoint x="400" y="710" as="targetPoint" />
+            <mxPoint x="250" y="820" as="sourcePoint" />
+            <mxPoint x="250" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="610" width="60" height="40" as="geometry" />
+          <mxGeometry x="260" y="630" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="760" width="60" height="40" as="geometry" />
+          <mxGeometry x="260" y="780" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-64" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="760" width="60" height="40" as="geometry" />
+          <mxGeometry x="260" y="780" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-51" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Senior Culinary Director&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="170" y="610" width="60" height="40" as="geometry" />
+          <mxGeometry x="180" y="630" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-54" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Associate Director Visuals&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="170" y="660" width="60" height="40" as="geometry" />
+          <mxGeometry x="180" y="680" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-58" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Updates Editor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="170" y="760" width="60" height="40" as="geometry" />
+          <mxGeometry x="180" y="780" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-59" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Culinary Editor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="170" y="710" width="60" height="40" as="geometry" />
+          <mxGeometry x="180" y="730" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-55" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Associate Editor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="250" y="710" width="60" height="40" as="geometry" />
+          <mxGeometry x="260" y="730" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-75" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FB7eA9qA6CasLgCEaDb-59" target="3FB7eA9qA6CasLgCEaDb-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="760" as="sourcePoint" />
+            <mxPoint x="390" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-56" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Senior Culinary Director&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="250" y="660" width="60" height="40" as="geometry" />
+          <mxGeometry x="260" y="680" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-77" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FB7eA9qA6CasLgCEaDb-54" target="3FB7eA9qA6CasLgCEaDb-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="780" as="sourcePoint" />
+            <mxPoint x="410" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-65" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Senior Commerce Editor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="250" y="760" width="60" height="40" as="geometry" />
+          <mxGeometry x="260" y="780" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-76" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FB7eA9qA6CasLgCEaDb-58" target="3FB7eA9qA6CasLgCEaDb-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="770" as="sourcePoint" />
+            <mxPoint x="400" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3FB7eA9qA6CasLgCEaDb-68" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Senior Editorial Director&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="250" y="610" width="60" height="40" as="geometry" />
+          <mxGeometry x="260" y="630" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-74" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FB7eA9qA6CasLgCEaDb-51" target="3FB7eA9qA6CasLgCEaDb-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="740" as="sourcePoint" />
+            <mxPoint x="390" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-78" value="Food Science" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="580" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-79" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3FB7eA9qA6CasLgCEaDb-78">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="250" y="550" as="sourcePoint" />
+            <mxPoint x="450" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-84" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="780" as="sourcePoint" />
+            <mxPoint x="359" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-81" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 65%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;How to restore cast iron cookware&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="650" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-82" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Does adding pasta water really make a difference&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="750" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-83" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Does refrigeration really ruin bread&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="390" y="700" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-86" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3FB7eA9qA6CasLgCEaDb-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="670" as="sourcePoint" />
+            <mxPoint x="380" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-87" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.049;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3FB7eA9qA6CasLgCEaDb-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="720" as="sourcePoint" />
+            <mxPoint x="380" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-88" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="3FB7eA9qA6CasLgCEaDb-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="780" as="sourcePoint" />
+            <mxPoint x="380" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-89" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Does adding pasta water really make a difference&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="750" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-90" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Does adding pasta water really make a difference&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="390" y="750" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-91" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 65%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;How to restore cast iron cookware&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="390" y="650" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FB7eA9qA6CasLgCEaDb-92" value="&lt;u&gt;Serious Eats Voices &lt;/u&gt;personal essays and features from our writers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
